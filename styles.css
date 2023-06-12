@@ -1,0 +1,62 @@
+*{
+    padding:0 ;
+    margin:0 ;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box; 
+}
+p{
+    color: rgb(112, 32, 187);   
+    font-size: 70px;
+    text-align: center;
+}
+body{
+    background-image: url("野獸前輩.jpg");
+    background-repeat: no-repeat,no-repeat;
+    background-size: cover;
+}
+
+#div1 {
+    width: 33.33%;
+    float: right;
+    height:1000px;
+}
+#div2 {
+    width:33.33%;
+    float:left;
+    height:1000px;
+}
+#div3 {
+    width:33.33%;
+    margin:0 auto;
+    height:1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#leftinput{
+    background-color: rgb(226, 223, 19);
+    width:300px;
+    height: 500px;
+    margin:0px auto;
+    text-align: center;
+
+}
+
+#inputnumber{
+    width: 50%;
+
+}
+
+#show{
+    font-size: 20px;
+}
+
+#show1{
+    font-size: 20px;
+}
+
+#show2{
+    font-size: 20px;
+}
